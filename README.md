@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/akhilapc0/leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/akhilapc0/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/akhilapc0/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
