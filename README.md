@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akhilapc0/leetcode-problems/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/akhilapc0/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/akhilapc0/leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/akhilapc0/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/akhilapc0/leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Enumeration
 |  |
@@ -28,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/akhilapc0/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/akhilapc0/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/akhilapc0/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
